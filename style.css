@@ -1,0 +1,22 @@
+.pre1 { 
+width: 600px;
+ background: #262626;
+}
+code { 
+ color: white;
+}
+ pre { 
+ background: #262626;
+ width: 300px;
+ color: white;
+}
+ .wa{
+ color: #fff;
+ background-color: purple;
+ padding: 15px 30px 15px 30px;
+ text-decoration: none;
+}
+ .fa{
+ color: #000;
+ text-decoration: none;
+}
